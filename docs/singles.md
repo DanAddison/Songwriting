@@ -28,16 +28,16 @@ oh, you’re alright
 oh, my boyfriend is waiting  
 
 ## Go Around Me
-go around me
-swift water
-carry no rocks
-where you run
+go around me  
+swift water  
+carry no rocks  
+where you run  
 fair insult upon stone
 
-irridescent
-colours
-skip across this
-boulder
+irridescent  
+colours  
+skip across this  
+boulder  
 such unending injuries
 
 ## Harbour
@@ -95,48 +95,6 @@ stories
 i move in low light  
 
 you’re not my friends  
-
-## Palace II
-well, i’m like, fine  
-i’ll take that slight, i’ll make that shine  
-“you’re so sensitive” i’m like, that’s right  
-i feel everything like i am alive   
-i, can’t discard every barb    
-i wrap myself in them, hoard my wealth in a  
-stronghold sprawling with soaring arches  
-glorious fortress of furious bastard  
-the past lasts in reverb tails  
-that creep like english ivy up the walls  
-creep like bootless army down the halls   
-and i feel your eyes when i’m piling fuel on this fire and it beats me back  
-and a chill runs down my spine in the drawing room  
-i scrawl such beautiful portraits of you  
-with coal on the walls of the drawing room  
-
-your words turn to stairwells and corridors  
-i’ve built myself a palace from thrown stones  
-where i am resplendent a fistful of embers to brighten the home  
-your words turn to stairwells and corridors  
-i’ve built myself a palace from thrown stones  
-where i am resplendent a fistful of embers to brighten the home  
-
-a midas throne a titus groan  
-gathered shadows navigate by sonar  
-ramshackle labyrinthine forest on the inside  
-chorus on the windchimes ghosting  
-you know how you kicked my tyres, yeah i noticed  
-how i speak to the speech that rattled in your throat  
-and whistled through your teeth  
-no knot in your tongue to staunch that bleed  
-catch that pigeon  
-that haunts that dream  
-
-your words turn to stairwells and corridors  
-i’ve built myself a palace from thrown stones  
-where i am resplendent a fistful of embers to brighten the home  
-your words turn to stairwells and corridors  
-i’ve built myself a palace from thrown stones  
-where i am resplendent a fistful of embers to brighten the home 
 
 ## Side With Me
 kind seas, strong oars  

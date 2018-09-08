@@ -548,6 +548,48 @@ i walk into the sea to be held
 behold how cold it all begins and how warm you grow within  
 when you have given yourself over, given in, forgiven again  
 
+## Palace II
+well, i’m like, fine  
+i’ll take that slight, i’ll make that shine  
+“you’re so sensitive” i’m like, that’s right  
+i feel everything like i am alive   
+i, can’t discard every barb    
+i wrap myself in them, hoard my wealth in a  
+stronghold sprawling with soaring arches  
+glorious fortress of furious bastard  
+the past lasts in reverb tails  
+that creep like english ivy up the walls  
+creep like bootless army down the halls   
+and i feel your eyes when i’m piling fuel on this fire and it beats me back  
+and a chill runs down my spine in the drawing room  
+i scrawl such beautiful portraits of you  
+with coal on the walls of the drawing room  
+
+your words turn to stairwells and corridors  
+i’ve built myself a palace from thrown stones  
+where i am resplendent a fistful of embers to brighten the home  
+your words turn to stairwells and corridors  
+i’ve built myself a palace from thrown stones  
+where i am resplendent a fistful of embers to brighten the home  
+
+a midas throne a titus groan  
+gathered shadows navigate by sonar  
+ramshackle labyrinthine forest on the inside  
+chorus on the windchimes ghosting  
+you know how you kicked my tyres, yeah i noticed  
+how i speak to the speech that rattled in your throat  
+and whistled through your teeth  
+no knot in your tongue to staunch that bleed  
+catch that pigeon  
+that haunts that dream  
+
+your words turn to stairwells and corridors  
+i’ve built myself a palace from thrown stones  
+where i am resplendent a fistful of embers to brighten the home  
+your words turn to stairwells and corridors  
+i’ve built myself a palace from thrown stones  
+where i am resplendent a fistful of embers to brighten the home 
+
 ## Poison Bird Belly
 i wish i was otherwise  
 i’m undermined by those other guys  
@@ -577,6 +619,29 @@ i wish for myself a million things
 i wish on a whim i wish i could win  
 i wish i could sing i wish i could rap  
 man, i wish you would clap  
+
+## Some Mess Best Left
+some mess best left unspoken  
+some can o’ worms you don’t open  
+some local Folkestone vocal totem  
+was totally hoping for something   
+now it’s totally broken and done with  
+now numb was once fun and sun-kissed  
+now one was once like one hundred  
+now hum this punch drunk and stunted  
+this bundle o’ bones now haunted  
+tight lungs like drums like thunder  
+no one likes the bitterness under   
+the bitten-est tongue tied fast to the blunder  
+it swung where it hung thereafter  
+in the rafters a monstrous slumber  
+the coma the loner alone with a low moan  
+blowing through a hole in the timber  
+what could be the matter?  
+who can say with a mouth full of feathers and cinders?  
+who can say with a mouth full of splinters?  
+who can say with a mouth full of feathers and cinders?  
+who can say with a mouth full of splinters? 
 
 ## Swift Water
 you’re a piece of work a work of art    

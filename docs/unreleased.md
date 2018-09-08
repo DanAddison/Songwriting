@@ -274,30 +274,7 @@ siren calls
 find me on an outcrop  
 stasis and exile  
 rags as robes  
-rags as robes  
-
-## Some Mess Best Left
-some mess best left unspoken  
-some can o’ worms you don’t open  
-some local Folkestone vocal totem  
-was totally hoping for something   
-now it’s totally broken and done with  
-now numb was once fun and sun-kissed  
-now one was once like one hundred  
-now hum this punch drunk and stunted  
-this bundle o’ bones now haunted  
-tight lungs like drums like thunder  
-no one likes the bitterness under   
-the bitten-est tongue tied fast to the blunder  
-it swung where it hung thereafter  
-in the rafters a monstrous slumber  
-the coma the loner alone with a low moan  
-blowing through a hole in the timber  
-what could be the matter?  
-who can say with a mouth full of feathers and cinders?  
-who can say with a mouth full of splinters?  
-who can say with a mouth full of feathers and cinders?  
-who can say with a mouth full of splinters?  
+rags as robes   
 
 ## Something Turned
 a changing world  

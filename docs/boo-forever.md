@@ -1,7 +1,7 @@
 # Boo, Forever
 &copy; 2013 Dan Addison. All rights reserved.
 
-# OMG
+## OMG
 “oh” she said  
 no, i don’t know what she meant  
 

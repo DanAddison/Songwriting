@@ -12,8 +12,16 @@ article#main.markdown-section h2 {
   margin-top: 2em;
 }
 
+article#main.markdown-section a {
+  color: #333;
+}
+
+article#main.markdown-section a:hover {
+  color: rgb(0, 216, 29);
+}
+
 .sidebar {
-  border-right: 1px solid #292929;
+  border-right: 1px solid rgb(0, 216, 29);
 }
 
 .sidebar > h1 {
@@ -29,7 +37,7 @@ article#main.markdown-section h2 {
 }
 
 .sidebar ul li a:hover {
-  color: rgb(85, 26, 139);
+  color: rgb(0, 216, 29);
   text-decoration: underline;
   /* text-decoration-color: rgb (85, 26, 139); */
 }
