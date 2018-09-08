@@ -1,7 +1,7 @@
 # Minor Planet
-&copy; Dan Addison. All rights reserved.
-
+#  
 # High Touch Town
+&copy; 2014 Dan Addison. All rights reserved.
 ## Name Calling
 call me slim not shady just scrawny  
 so scrawny automatic doors ignore me  
@@ -434,8 +434,9 @@ later
 i’ll start, don’t stop now  
 till our lungs are burned-out  
 i heart high touch town  
-
+#  
 # Singles
+&copy; Dan Addison. All rights reserved.
 ## Different Rules
 i touch a nerve like the dentist  
 something bout your girlfriend [that bitch is sexist?]  
@@ -493,8 +494,9 @@ now we’re holding, now we’re golden
 ‘the boys’ - just basically girls on steroids  
 brown thumb black lung yellow bruise white bread  
 stop over on the zedbed   
-
+#  
 # Unreleased
+&copy; Dan Addison. All rights reserved.
 ## Come Upstairs and Die
 come upstairs to the studio  
 i’m out of sorts everywhere but the studio  

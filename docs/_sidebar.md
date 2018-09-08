@@ -8,7 +8,7 @@
 * [Boo, Forever](boo-forever.md)
 * [Distant Fires](distant-fires.md)
 * [Speak Low](speak-low.md)
-* [The Black Whole](the-black-whole.md)
+* [The Black Whole](black-whole.md)
 * [Good Grief](good-grief.md)
 * [Last](last.md)
 * [Case Sensitive](case-sensitive.md)

@@ -74,6 +74,21 @@ you’ve found a common cause
 i can smell a bonfire  
 i feel it through the boards  
 
+## Endurance
+we lay in a fearful embrace  
+five weeks since we last saw the sun  
+resisting this desolate place  
+our ship she shudders and moans  
+
+oh, the heaving of her lungs  
+
+the warping of beams and boards  
+she’ll cry herself to sleep like this  
+a creeping stupendous force  
+a frost-bitten godless fist  
+
+oh, will any of us be missed?
+
 ## Firewood
 arms full of  
 firewood  
@@ -98,28 +113,7 @@ i’ll follow this
 arms full of   
 firewood  
 i’m nervous  
-you’re nervous too  
-
-## I Heard Wolves
-i heard wolves  
-across the snow  
-i heard wolves  
-it was terrible  
-it was beautiful  
-
-were my devils  
-to go  
-would my angels  
-follow?  
-
-i heard wolves  
-i heard wolves  
-
-hear them coming through the forest  
-baying for blood  
-hear them running through the forest  
-with teeth this sharp  
-with eyes this dark  
+you’re nervous too   
 
 ## Maps
 here we are again  
@@ -141,6 +135,33 @@ she draws maps
 
 the most elegant sums  
 are the simple ones  
+
+## Maze of Limbs
+at your six  
+maze of limbs  
+at your twelve  
+heart of darkness  
+(darkness)
+
+we move  
+by night  
+war paint  
+war cries  
+
+i don’t easily scare  
+
+won’t bow  
+don’t know how  
+won’t fold  
+may not grow old  
+(darkness)
+
+we move  
+by night  
+war paint  
+war cries  
+
+i don’t easily scare
 
 ## Myopia
 address the page not the referent  
@@ -324,6 +345,39 @@ to give and receive
 but now we’re here  
 
 softly swaying where we lay  
+
+## Turn Away
+he was waiting for her  
+waiting for her in the leaves  
+arms like swollen rivers  
+rose to bear her from the street  
+oh how the hell could, why the hell would  
+and who are we?  
+whisper keep your mouth shut  
+keep your maelstrom keep your grief  
+
+boys grow up strong  
+so girls grow up fast
+
+i’d see her ‘missing’ posters   
+by the station, i was young  
+never dared imagine  
+things could happen so messed up  
+what if we’d been walking  
+down the same road on that day?  
+bet that he’d just come back  
+and he’d make another play  
+
+coz girls leave the house  
+and boys love the chase 
+
+turn from this world  
+turn away
+
+he was waiting for her  
+waiting for her in the leaves  
+arms like swollen rivers  
+rose to bear her from the street 
 
 ## Who Was I?
 will i keep my eyes open  
