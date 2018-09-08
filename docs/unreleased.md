@@ -19,7 +19,29 @@ keep me off of my knees
 
 you must be formidable  
 you must be formidable  
-you must be formidable  
+you must be formidable 
+
+## Ballad
+when units meet  
+at the same point  
+the forces felt   
+are modern  
+
+and the body must yield  
+
+from moulded seats  
+things happen fast  
+parts made to fit  
+are made to part  
+
+and the body must yield  
+
+on slipway black  
+merge and dislocate  
+the control of a man  
+can get away  
+
+and the body must yield  
 
 ## Boats
 every year i build another boat from the floorboards  
@@ -37,20 +59,20 @@ down there at the waterline, this won’t stand
 and now you know  
 
 ## Deep in the Barn
-deep in the barn
-my back steams
-i shift my bulk
-in the gloaming
+deep in the barn  
+my back steams  
+i shift my bulk  
+in the gloaming  
 
-i made my bed here
-i’m watered and fed here
-a beast like me
-is in the red here
+i made my bed here  
+i’m watered and fed here  
+a beast like me  
+is in the red here  
 
-but i can hear you gathering outside
-you’ve found a common cause
-i can smell a bonfire
-i feel it through the boards
+but i can hear you gathering outside  
+you’ve found a common cause  
+i can smell a bonfire  
+i feel it through the boards  
 
 ## Firewood
 arms full of  
@@ -158,6 +180,114 @@ a fallacy, an arrow shot
 you’re so charming in this light  
 Nancy  
 
+## Not a Soul in Sight
+friend there is a war on  
+your luck’ll never hold  
+on a need-to-know we’re all told  
+we’re all so old  
+
+and not a soul in sight  
+there’s not a soul in sight  
+with not a soul in sight  
+in time  
+
+burn down your house at once  
+tear out your tongue your tongue  
+i’m all the house all the mouth  
+you want  
+
+concern yourself with no one else  
+concern yourself with no one else  
+concern yourself with no one else  
+concern yourself with no one else  
+
+take me dancing don’t run  
+
+i’d break it to you gently  
+but the truth has always hurt  
+so come and get your heart broke  
+for all you’re worth  
+
+i’m your whole world  
+
+but there’s not a soul in sight  
+i’m fine  
+
+## Outcrop
+seven ships so distant  
+i can only imagine what they hold  
+where they’ve been, where they’re headed  
+and how long  
+
+find me on an outcrop  
+stasis and exile  
+rags as robes  
+rags as robes  
+Danish scurvy grass  
+snake orchid and samphire  
+crown of thorns  
+crown of thorns  
+
+a stand with weather all of   
+its own  
+
+a low cloud of white flowers, i watch   
+the trade route lay a dark line  
+fixing me beneath my perfume of burning tyre and  
+Death Come Quickly and catch-fly  
+ 
+find me on an outcrop  
+stasis and exile  
+rags as robes  
+rags as robes  
+Danish scurvy grass  
+snake orchid and samphire  
+crown of thorns  
+crown of thorns  
+
+steady as she goes  
+upwind of and deaf to such  
+siren calls  
+siren calls  
+
+find me on an outcrop  
+stasis and exile  
+rags as robes  
+rags as robes  
+
+## Some Mess Best Left
+some mess best left unspoken  
+some can o’ worms you don’t open  
+some local Folkestone vocal totem  
+was totally hoping for something   
+now it’s totally broken and done with  
+now numb was once fun and sun-kissed  
+now one was once like one hundred  
+now hum this punch drunk and stunted  
+this bundle o’ bones now haunted  
+tight lungs like drums like thunder  
+no one likes the bitterness under   
+the bitten-est tongue tied fast to the blunder  
+it swung where it hung thereafter  
+in the rafters a monstrous slumber  
+the coma the loner alone with a low moan  
+blowing through a hole in the timber  
+what could be the matter?  
+who can say with a mouth full of feathers and cinders?  
+who can say with a mouth full of splinters?  
+who can say with a mouth full of feathers and cinders?  
+who can say with a mouth full of splinters?  
+
+## Something Turned
+a changing world  
+a change of clothes   
+rags as robes  
+please don’t explain  
+my body knows  
+in stasis and exile  
+and your shadow  
+something turned  
+
 ## Take Me Dancing
 if you call  
 to take me dancing  
@@ -187,14 +317,22 @@ had my hair done?
 
 you always notice  
 
+## The Gift
+i’ve been saying “i don’t want a thing” for years  
+i thought gifts were for others   
+to give and receive  
+but now we’re here  
+
+softly swaying where we lay  
+
 ## Who Was I?
-will I keep my eyes open  
+will i keep my eyes open  
 hey?  
 look back the railing  
 bombs away  
 
 you never showed me a good time  
-who was I though  
+who was i though  
 to show me a good time?  
 
 for a breath it’s just me out here  
@@ -203,7 +341,7 @@ then my watch stops
 17:38  
 
 you never showed me a good time  
-who was I though  
+who was i though  
 to show me a good time?  
 
 for a moment my body looked kinda elegant  
@@ -232,3 +370,6 @@ is to stay just as i am
 the masochist in me is stirring  
 and i feel a sudden need for going  
 and who can know just what i’m doing?  
+
+## 90
+the night is mine, the dial reads 90 and the motorway rushes up to meet my headlights, I plunge beneath each flyover and pass each sliproad the same way you climb a mountain - one step at a time, just bending to it, do something for nothing, no moon or stars beyond the windscreen, just ink and forward motion, two lorries on a grade and for a breathless moment we’re cresting the hill three abeam before I tumble down with my mirrors sparkling, flickering, fading, 2:17am, southbound, I can picture everyone back at the party speaking at cross purposes, I think I knew all along that the turn of midnight would drag me out here, to the road, the only tunes I hum sometimes are engine notes, I’m reassured by this ugly infrastructure, concrete pillars and bridges, rarely touched by a warm hand, decades pass, someone pressed themselves steadily against my arm in the hallway and I felt it most a few seconds after, as my sleeve cooled in the next room, if a tyre blew now what would happen? A fox could be stealing across these fields not understanding, when I was stood by myself I decided I really wanted to stop time, stop everything dead, so I could wander between the frozen bodies of my friends and, just, speak freely, a tangle of lanes now merging, I roll with it, driving for my life and for the ongoing moment, hot tar smell from a road crew, childhood utterance, white arrows on those towering blue signs seem to describe some complicated dance step instruction you’d see in books before the world changed and people stopped learning how to dance from books, i can’t tell whether i feel powerful or vulnerable barreling along in my metal box making fine adjustments with my hands and my feet and thinking about the way she kept repeating something that i couldn’t quite catch in all the noise of the party, i’m sure it was nothing, i’m sure she’s talking now, to someone, i’m generally not sure of anything, needle is edging up to empty, i’ll see where it takes me, all the way, all the way, all the way

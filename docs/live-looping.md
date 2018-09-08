@@ -1,6 +1,34 @@
 # Live-Looping
 &copy; Dan Addison. All rights reserved.
 
+## Downsizing
+i don’t know what you want  
+but if you do what you’ve always done  
+you’ll get what you’ve always got  
+and i don’t know what you want  
+if you do what you’ve always done  
+you’ll get what you’ve always got  
+
+but oh, just let it drop  
+
+it was an honest mistake  
+when i looked back  
+the shore was a mile away
+and we live once  
+and if you do what you’ve always done  
+you’ll get what you’ve always got  
+
+but oh, just let it drop
+
+what else is there?  
+i'm done downsizing    
+what else is left?  
+I am  
+what else is there?  
+i'm done downsizing    
+what else is left?  
+I am  
+
 ## Mars
 strong is the pull of the earth  
 slow is the going and how that hurts  
