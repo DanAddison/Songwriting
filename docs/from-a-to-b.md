@@ -1,7 +1,7 @@
 # From A to B
-&copy; 2005 Dan Addison. All rights reserved.
+&copy; 2006 Dan Addison. All rights reserved.
 
-## from a to b
+## From A to B
 time goes by so slowly  
 time goes by so quickly  
 and I’m far, far away from home  
