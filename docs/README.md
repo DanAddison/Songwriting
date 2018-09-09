@@ -1,4 +1,4 @@
-# Welcome to the lyric sheets for my back catalogue of songs {docsify-ignore-all}
+# Welcome to my original song lyrics archive {docsify-ignore-all}
 #  
 Not all of the songs included here were released / recorded / performed to an audience, but **they are all finished pieces**.  
 
@@ -8,8 +8,8 @@ Next I have grouped together the **unreleased songs**. These are organised in al
 
 Then, the **standalone singles**.   
 
-Finally, **all of my actual albums and EPs**, organised in reverse chronological order. This includes songs I wrote for any bands I was in.  
+Finally, **all of my actual albums and EPs**, organised in reverse chronological order. Bands and collaborative projects are included accordingly. 
 
-Any tracks that were entirely instrumental, or that had lyrics written by someone else, have been omitted from this repository. I will have missed out a few tracks by mistake, too. So this is not quite exhaustive, just exhausting.
+Any tracks that were entirely instrumental, or that had lyrics written by someone else, have been omitted from this archive. I will have missed out a few tracks by mistake, too. So this is not quite exhaustive, just exhausting.
 #    
 [Visit my website](https://danaddison.co.uk) for more about me and to actually **hear some music**.

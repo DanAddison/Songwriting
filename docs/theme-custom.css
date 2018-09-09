@@ -39,5 +39,14 @@ article#main.markdown-section a:hover {
 .sidebar ul li a:hover {
   color: rgb(0, 216, 29);
   text-decoration: underline;
-  /* text-decoration-color: rgb (85, 26, 139); */
+}
+
+.sidebar-toggle {
+  background-color: #fff;
+  opacity: .9;
+  padding: 15px;
+}
+
+.sidebar-toggle span {
+  background-color: rgb(3, 192, 28);
 }
