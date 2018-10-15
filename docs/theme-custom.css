@@ -2,6 +2,31 @@ body {
   font-family: 'Roboto Mono', monospace;
 }
 
+/* Coverpage: */
+/* section.cover .cover-main {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+} */
+
+/* section.cover.show.has-mask {
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+} */
+
+section.cover.has-mask .mask {
+  background-color: #000;
+  opacity: .3;
+}
+
+section.cover .anchor span{
+  color: #fff;
+  font-weight: bold;
+  /* text-transform: uppercase; */
+  /* padding: 1em; */
+}
+
+
 article#main.markdown-section h1 {
   font-size: 2em;
   margin-bottom: 0;
@@ -17,19 +42,17 @@ article#main.markdown-section a {
 }
 
 article#main.markdown-section a:hover {
-  color: rgb(0, 216, 29);
+  color: rgb(2, 136, 20);
 }
 
+/* logo */
 .sidebar {
-  border-right: 1px solid rgb(0, 216, 29);
+padding-top: 0;
 }
 
-.sidebar > h1 {
-  text-align: left;
-  padding-left: 15px;
-  font-size: 1.5em;
-  font-weight: bold;
-}
+/* .sidebar {
+  border-right: 1px solid rgb(0, 216, 29);
+} */
 
 .sidebar ul li a {
   color: #333;
@@ -37,16 +60,23 @@ article#main.markdown-section a:hover {
 }
 
 .sidebar ul li a:hover {
-  color: rgb(0, 216, 29);
+  /* color: rgb(0, 216, 29); */
   text-decoration: underline;
 }
 
 .sidebar-toggle {
-  background-color: #fff;
-  opacity: .9;
-  padding: 15px;
+  bottom: auto;
+  left: auto;
+  top: 0;
+  right: 0;
+  width: auto;
+  padding: 25px;
 }
 
-.sidebar-toggle span {
-  background-color: rgb(3, 192, 28);
+@media screen and (max-width: 768px) {
+
+  body.close .sidebar-toggle {
+    width: auto;
+    padding: 25px;
+  }
 }
