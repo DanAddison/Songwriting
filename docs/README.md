@@ -1,5 +1,5 @@
-# Daniel Addison Music - Lyrics Archive
+# Daniel Addison Music
 
-These are all of my finished songs.  
+This is a lyric archive of all of my finished songs.  
    
 For more about me, [Visit my website](https://danaddison.uk)
