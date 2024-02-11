@@ -168,7 +168,7 @@ Before i saw the swollen river
 Sonny sniffed the air and faltered
 I shifted in my saddle
 
-In my knapsack is a letter 
+In my knapsack is a letter
 I’m entrusted to deliver
 Somewhere yonder is a pure heart
 Time and water move against us 
@@ -178,7 +178,7 @@ Laid my better hand upon him
 Felt how hard he had been working
 
 Biting down and urging onward
-Frozen clawing of the maelstrom 
+Frozen clawing of the maelstrom
 Rolling eyes and silent hoof beats
 
 Timber tore across the reins
@@ -187,7 +187,7 @@ Watching Sonny fade away
 
 In my haste I had neglected
 To account for the preserving
-Of those shapes upon the parchment 
+Of those shapes upon the parchment
 I looked back across the river
 
 ## Myopia
