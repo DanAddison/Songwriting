@@ -187,7 +187,7 @@ watching Sonny fade away
 
 in my haste I had neglected  
 to account for the preserving  
-of hose shapes upon the parchment  
+of those marks upon the parchment  
 I looked back across the river  
 
 ## Myopia
