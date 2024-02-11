@@ -164,31 +164,31 @@ war cries
 i don’t easily scare
 
 ## The Message
-before I saw the swollen river
-Sonny sniffed the air and faltered
-I shifted in my saddle
+before I saw the swollen river  
+Sonny sniffed the air and faltered  
+I shifted in my saddle  
 
-in my knapsack is the letter
-I'm entrusted to deliver
-somewhere yonder is a pure heart
-time and water move against us
+in my knapsack is the letter  
+I'm entrusted to deliver  
+somewhere yonder is a pure heart  
+time and water move against us  
 
-I said something low and soothing
-laid my better hand upon him
-felt how hard he had been working
+I said something low and soothing  
+laid my better hand upon him  
+felt how hard he had been working  
 
-biting down and urging onward
-frozen clawing of the maelstrom
-rolling eyes and silent hoof beats
+biting down and urging onward  
+frozen clawing of the maelstrom  
+rolling eyes and silent hoof beats  
 
-timber tore across the reins
-I don't know how I was saved
-watching Sonny fade away
+timber tore across the reins  
+I don't know how I was saved  
+watching Sonny fade away  
 
-in my haste I had neglected
-to account for the preserving
-of hose shapes upon the parchment
-I looked back across the river
+in my haste I had neglected  
+to account for the preserving  
+of hose shapes upon the parchment  
+I looked back across the river  
 
 ## Myopia
 address the page not the referent  
